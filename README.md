@@ -20,4 +20,4 @@ pygame - module which enable creating a game
 2. Install the project's development and runtime requirements:
 `pip install -r requirements.txt`
 3. run snake.py and have fun!
-`python galaxy_snake.py`
+`python galaxy_snake.py.py`
