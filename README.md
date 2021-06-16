@@ -2,10 +2,9 @@
 ## Author: Karolina Wypych
 
 ### Short description
-If my version of Snake You have to eat as much broccoli
-as possible. Collecting hearts gives You more chances 
-(and sometimes even makes you longer!!!).
-But You must to be careful. Colliding with fences or yourself decrement chances.
+If my version of Snake You have to eat as much stars
+as possible. Collecting hearts gives You more chances.
+But You must to be careful. Colliding with ships or yourself decrements your chances.
 Have fun!
 
 ### Technologies
