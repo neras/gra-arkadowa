@@ -15,9 +15,9 @@ pygame - module which enable creating a game
 
 ### How to run this app?
 1. Clone the template project, replacing my-project with the name of the project you are creating: 
-`git clone  https://github.com/neras/Game-Template.git`
-`cd my-game `
+`git clone  https://github.com/neras/gra-arkadowa.git`
+`cd gra-arkadowa `
 2. Install the project's development and runtime requirements:
 `pip install -r requirements.txt`
 3. run snake.py and have fun!
-`python snake.py`
+`python galaxy_snake.py`
